@@ -1,5 +1,5 @@
 //REST-Representational state transfer.
-//new add
+
 
 //it is  basically a set of guidelines for how a client + server should communicate and perform CRUD operation on a given resource.
 
