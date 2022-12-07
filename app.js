@@ -1,5 +1,5 @@
 //REST-Representational state transfer.
-//9.57
+
 //it is  basically a set of guidelines for how a client + server should communicate and perform CRUD operation on a given resource.
 
 // GET /comments-list all comments
